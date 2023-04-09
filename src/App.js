@@ -8,7 +8,7 @@ function App(){
     };
     
     return <div>
-        <SearchBar onSubmit = {handleSubmit} />
+        <SearchBar onSubmit={handleSubmit} />
     </div>
 }
 
