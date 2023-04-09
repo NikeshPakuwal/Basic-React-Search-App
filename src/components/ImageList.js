@@ -2,4 +2,4 @@ function ImageList(){
     return <div>Image List!</div>
 }
 
-export default App;
+export default ImageList;

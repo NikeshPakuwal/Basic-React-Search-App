@@ -2,4 +2,4 @@ function ImageShow(){
     return <div>Image Show!</div>
 }
 
-export default App;
+export default ImageShow;
